@@ -1,4 +1,5 @@
 # Comparitive-Sales-Analysis-Dashboard
+Power Bi Dashboard
 
  This dashboard is designed to provide a high-level view of the sales performance of a company. By analyzing
 the sales data, this dashboard helps to identify the key insights, trends, and opportunities for growth. The
