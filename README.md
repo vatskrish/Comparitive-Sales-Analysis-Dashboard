@@ -6,7 +6,7 @@ the sales data, this dashboard helps to identify the key insights, trends, and o
 dashboard measures the sales performance of the company by comparing the current year sales to the
 previous year sales and the budgeted sales. With the help of this dashboard, the company can make datadriven decisions to improve their sales performance and achieve their business goals.
 
-Steps involved in building this dashboard are as follows
+Steps involved in building this dashboard are as follows"
 
 1. Importing data from csv file
 2. Data cleaning using Power Query
